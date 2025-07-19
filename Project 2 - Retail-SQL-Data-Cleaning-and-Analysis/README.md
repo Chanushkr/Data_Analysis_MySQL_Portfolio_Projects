@@ -99,3 +99,11 @@ FROM sales;
 ---
 
 ## 📌 Author
+**Chanush KR**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chanush-kr)  
+🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
+📌 [LinkedIn Post about this Project](https://www.linkedin.com/posts/chanush-kr_datascience-python-dataanalysis-activity-7352255431970344960-YBu3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0Tw64BmW6pg1qf8-1ow9qOM-2tCEyFJRw)
+
+---
+
+> If you found this helpful, don’t forget to ⭐️ the repo and connect on LinkedIn!
