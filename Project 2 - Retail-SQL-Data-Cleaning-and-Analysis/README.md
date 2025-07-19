@@ -72,8 +72,8 @@ FROM sales;
 ---
 
 ## 🧼 Tools Used
-**MySQL Workbench**
-**SQL (Structured Query Language)**
+- **MySQL Workbench**
+- **SQL (Structured Query Language)**
 
 
 ---
