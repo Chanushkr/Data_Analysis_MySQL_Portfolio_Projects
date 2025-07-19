@@ -72,7 +72,7 @@ FROM sales;
 ---
 
 ## 🧼 Tools Used
-- **MySQL Workbench**
+- **MySQL Workbench 8.0**
 - **SQL (Structured Query Language)**
 
 
