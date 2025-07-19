@@ -67,6 +67,8 @@ SELECT
     CONCAT("$ ", FORMAT(SUM(SalesAmount),2)) AS total_revenue
 FROM sales;
 
+```sql
+
 ---
 
 ## 🧼 Tools Used
