@@ -1,0 +1,401 @@
+EntryID,Date,AccountID,DepartmentID,PartyID,Amount,Type,Description
+GL0001,2023-11-24,1002,1,203.0,3807.95,Debit,Customer payment
+GL0002,2023-03-13,1002,3,201.0,9512.07,Credit,Office supplies purchase
+GL0003,2023-01-16,1002,1,202.0,7346.74,Debit,Software license
+GL0004,2023-04-12,1009,2,202.0,6026.72,Credit,Software license
+GL0005,2023-05-23,1001,1,204.0,1644.58,Credit,Equipment maintenance
+GL0006,2023-03-21,1004,2,201.0,1644.35,Debit,Inventory restock
+GL0007,2023-02-19,1006,2,203.0,675.03,Debit,Service revenue
+GL0008,2023-08-24,1009,1,204.0,8675.14,Debit,Software license
+GL0009,2023-05-31,1010,2,202.0,6051.04,Debit,Office supplies purchase
+GL0010,2023-12-05,1004,2,201.0,7109.92,Debit,Office supplies purchase
+GL0011,2023-07-14,1005,2,203.0,303.79,Debit,Equipment maintenance
+GL0012,2023-07-01,1004,3,203.0,9702.11,Debit,Software license
+GL0013,2023-11-22,1003,3,202.0,8341.18,Debit,Inventory restock
+GL0014,2023-07-14,1005,3,202.0,2202.16,Credit,Office supplies purchase
+GL0015,2023-04-28,1001,2,204.0,1900.07,Credit,Office supplies purchase
+GL0016,2023-04-19,1010,3,203.0,1915.7,Debit,Service revenue
+GL0017,2023-09-13,1007,3,204.0,3112.0,Debit,Equipment maintenance
+GL0018,2023-03-13,1004,3,203.0,5295.09,Credit,Software license
+GL0019,2023-07-24,1006,1,202.0,4376.26,Credit,Office supplies purchase
+GL0020,2023-01-25,1002,1,202.0,2983.17,Credit,Software license
+GL0021,2023-02-02,1007,2,204.0,6157.34,Credit,Software license
+GL0022,2023-01-06,1002,3,203.0,1480.99,Credit,Office supplies purchase
+GL0023,2023-05-31,1007,1,204.0,2992.23,Debit,Service revenue
+GL0024,2023-05-15,1009,1,201.0,3726.98,Credit,Service revenue
+GL0025,2023-09-17,1010,1,202.0,4615.09,Credit,Customer payment
+GL0026,2023-10-04,1009,1,203.0,7873.24,Credit,Office supplies purchase
+GL0027,2023-02-27,1006,2,202.0,2076.77,Debit,Customer payment
+GL0028,2023-10-18,1002,1,204.0,5190.92,Debit,Software license
+GL0029,2023-03-06,1003,3,204.0,5964.9,Debit,Equipment maintenance
+GL0030,2023-09-28,1010,2,202.0,559.86,Debit,Service revenue
+GL0031,2023-06-09,1007,3,203.0,6114.69,Credit,Software license
+GL0032,2023-08-20,1002,1,202.0,1788.19,Debit,Equipment maintenance
+GL0033,2023-01-11,1010,3,202.0,744.01,Debit,Office supplies purchase
+GL0034,2023-02-06,1001,1,201.0,9493.97,Debit,Equipment maintenance
+GL0035,2023-02-06,1009,1,203.0,9659.76,Credit,Customer payment
+GL0036,2023-10-04,1003,3,204.0,8103.13,Debit,Inventory restock
+GL0037,2023-07-28,1004,1,201.0,3115.68,Credit,Equipment maintenance
+GL0038,2023-08-05,1007,2,201.0,1066.95,Debit,Office supplies purchase
+GL0039,2023-07-26,1006,1,202.0,6873.91,Debit,Customer payment
+GL0040,2023-10-02,1008,1,204.0,4457.51,Debit,Equipment maintenance
+GL0041,2023-08-25,1004,1,204.0,1308.18,Debit,Office supplies purchase
+GL0042,2023-11-30,1009,1,201.0,5002.25,Debit,Customer payment
+GL0043,2023-07-28,1008,2,202.0,440.45,Credit,Office supplies purchase
+GL0044,2023-03-26,1007,1,204.0,9102.27,Credit,Inventory restock
+GL0045,2023-05-27,1007,3,204.0,2661.92,Debit,Customer payment
+GL0046,2023-06-01,1004,1,201.0,6658.97,Credit,Office supplies purchase
+GL0047,2023-01-26,1010,2,202.0,3185.94,Debit,Software license
+GL0048,2023-02-11,1003,1,201.0,5248.67,Debit,Inventory restock
+GL0049,2023-03-03,1010,1,201.0,5512.43,Debit,Inventory restock
+GL0050,2023-12-03,1010,3,203.0,1930.06,Credit,Customer payment
+GL0051,2023-12-09,1006,1,203.0,9698.89,Credit,Customer payment
+GL0052,2023-12-10,1005,2,203.0,7773.81,Debit,Office supplies purchase
+GL0053,2023-08-23,1010,3,201.0,9401.04,Debit,Software license
+GL0054,2023-04-20,1009,2,202.0,8958.79,Credit,Office supplies purchase
+GL0055,2023-05-06,1006,2,202.0,6019.21,Credit,Software license
+GL0056,2023-12-27,1005,3,201.0,9226.55,Credit,Service revenue
+GL0057,2023-02-23,1003,2,201.0,976.08,Debit,Service revenue
+GL0058,2023-10-11,1003,2,203.0,2040.23,Debit,Service revenue
+GL0059,2023-06-25,1004,3,203.0,547.75,Credit,Equipment maintenance
+GL0060,2023-01-27,1002,3,204.0,3320.77,Credit,Office supplies purchase
+GL0061,2023-01-02,1006,1,203.0,3947.91,Debit,Service revenue
+GL0062,2023-08-15,1009,3,204.0,2786.36,Debit,Office supplies purchase
+GL0063,2023-02-08,1003,3,201.0,8304.5,Credit,Software license
+GL0064,2023-10-10,1003,2,202.0,3631.86,Debit,Equipment maintenance
+GL0065,2023-07-06,1001,2,202.0,2881.25,Debit,Service revenue
+GL0066,2023-02-22,1006,3,204.0,5472.69,Debit,Customer payment
+GL0067,2023-03-25,1003,2,201.0,1495.15,Debit,Service revenue
+GL0068,2023-06-20,1007,3,202.0,8041.75,Credit,Customer payment
+GL0069,2023-12-26,1002,2,201.0,838.05,Credit,Customer payment
+GL0070,2023-04-13,1008,2,203.0,9870.18,Debit,Customer payment
+GL0071,2023-01-13,1004,2,203.0,7745.22,Credit,
+GL0072,2023-05-23,1006,3,204.0,2067.29,Credit,Office supplies purchase
+GL0073,2023-03-01,1005,1,203.0,154.67,Debit,Office supplies purchase
+GL0074,2023-11-02,1007,2,203.0,8173.07,Credit,Software license
+GL0075,2023-09-19,1002,2,202.0,7097.89,Credit,Office supplies purchase
+GL0076,2023-12-29,1007,1,202.0,7317.17,Credit,Inventory restock
+GL0077,2023-02-05,1006,3,,7735.58,Debit,Service revenue
+GL0078,2023-06-03,1009,2,204.0,833.04,Credit,Inventory restock
+GL0079,2023-12-23,1005,3,202.0,3648.81,Debit,Inventory restock
+GL0080,2023-12-07,1007,3,202.0,1247.1,Credit,Inventory restock
+GL0081,2023-10-08,1001,2,203.0,8644.72,Debit,Inventory restock
+GL0082,2023-10-24,1010,3,203.0,6270.65,Credit,Inventory restock
+GL0083,2023-08-15,1004,3,204.0,3375.89,Debit,Service revenue
+GL0084,2023-02-13,1005,3,203.0,729.23,Debit,Customer payment
+GL0085,2023-12-11,1005,1,202.0,3178.72,Debit,Office supplies purchase
+GL0086,2023-01-24,1004,2,201.0,3319.31,Credit,Inventory restock
+GL0087,2023-11-19,1010,1,204.0,7323.1,Credit,Inventory restock
+GL0088,2023-05-05,1003,3,201.0,6411.82,Debit,Inventory restock
+GL0089,2023-04-23,1003,3,204.0,8883.41,Debit,Software license
+GL0090,2023-05-08,1002,2,202.0,4774.93,Credit,Service revenue
+GL0091,2023-09-29,1009,3,203.0,1283.98,Credit,Software license
+GL0092,2023-09-16,1007,3,204.0,7161.12,Debit,Service revenue
+GL0093,2023-09-01,1008,2,202.0,7631.77,Credit,Software license
+GL0094,2023-09-06,1004,2,204.0,5656.64,Debit,Service revenue
+GL0095,2023-05-27,1004,2,203.0,7732.58,Credit,Software license
+GL0096,2023-02-11,1003,1,202.0,4988.58,Credit,Service revenue
+GL0097,2023-03-20,1004,1,204.0,5275.06,Credit,Equipment maintenance
+GL0098,2023-10-05,1008,2,201.0,4332.66,Debit,Inventory restock
+GL0099,2023-07-19,1010,3,201.0,351.65,Credit,Inventory restock
+GL0100,2023-01-04,1006,2,204.0,1168.13,Credit,Software license
+GL0101,2023-10-07,1010,1,204.0,411.15,Debit,Equipment maintenance
+GL0102,2023-08-12,1008,1,204.0,6400.46,Credit,Service revenue
+GL0103,2023-12-14,1007,3,202.0,3212.12,Credit,Customer payment
+GL0104,2023-11-15,1009,1,204.0,5134.85,Debit,Office supplies purchase
+GL0105,2023-11-26,1007,1,204.0,9084.91,Debit,Office supplies purchase
+GL0106,2023-05-14,1007,2,202.0,2567.99,Credit,Equipment maintenance
+GL0107,2023-06-22,1007,2,204.0,4162.79,Credit,
+GL0108,2023-08-29,1001,3,201.0,7579.96,Credit,Customer payment
+GL0109,2023-11-29,1002,3,201.0,2365.1,Debit,Customer payment
+GL0110,2023-04-13,1001,3,202.0,862.1,Debit,Customer payment
+GL0111,2023-08-31,1002,3,202.0,2968.54,Credit,Service revenue
+GL0112,2023-05-12,1006,1,201.0,1696.09,Debit,Equipment maintenance
+GL0113,2023-02-25,1010,1,203.0,9304.01,Credit,Inventory restock
+GL0114,2023-04-12,1002,3,202.0,8100.39,Debit,Service revenue
+GL0115,2023-06-04,1010,1,201.0,6370.7,Credit,Software license
+GL0116,2023-08-08,1006,1,203.0,8727.46,Debit,Inventory restock
+GL0117,2023-09-08,1002,2,203.0,8056.35,Credit,Service revenue
+GL0118,2023-03-20,1007,1,203.0,1947.04,Credit,Inventory restock
+GL0119,2023-08-12,1010,2,,8936.33,Debit,Office supplies purchase
+GL0120,2023-05-23,1008,1,204.0,5439.49,Credit,Equipment maintenance
+GL0121,2023-01-15,1008,2,202.0,8093.66,Credit,Customer payment
+GL0122,2023-07-01,1005,2,203.0,8971.3,Credit,Software license
+GL0123,2023-01-06,1009,1,201.0,3248.23,Debit,Service revenue
+GL0124,2023-07-28,1008,3,202.0,1189.51,Credit,Service revenue
+GL0125,2023-12-31,1008,2,201.0,2356.56,Debit,Equipment maintenance
+GL0126,2023-04-24,1007,3,202.0,4328.37,Credit,Service revenue
+GL0127,2023-10-25,1006,2,203.0,8198.35,Credit,Service revenue
+GL0128,2023-10-09,1006,2,204.0,8621.23,Credit,Equipment maintenance
+GL0129,2023-05-09,1004,1,202.0,168.83,Credit,Office supplies purchase
+GL0130,2023-10-02,1003,1,202.0,5156.4,Credit,Equipment maintenance
+GL0131,2023-10-29,1009,3,203.0,4232.37,Debit,Customer payment
+GL0132,2023-06-01,1004,2,202.0,2298.87,Credit,Office supplies purchase
+GL0133,2023-12-29,1009,1,203.0,1286.67,Debit,Office supplies purchase
+GL0134,2023-10-11,1005,3,202.0,3442.39,Credit,Office supplies purchase
+GL0135,2023-01-07,1010,2,204.0,9434.81,Credit,Inventory restock
+GL0136,2023-06-24,1003,1,203.0,3299.71,Credit,Office supplies purchase
+GL0137,2023-02-03,1007,2,201.0,5236.03,Debit,Customer payment
+GL0138,2023-03-18,1010,2,201.0,7059.89,Debit,Office supplies purchase
+GL0139,2023-10-13,1007,3,202.0,3699.93,Credit,Inventory restock
+GL0140,2023-08-15,1005,3,204.0,9720.64,Credit,Software license
+GL0141,2023-11-14,1001,3,201.0,9628.23,Debit,Service revenue
+GL0142,2023-04-19,1005,3,201.0,2592.64,Debit,Customer payment
+GL0143,2023-03-30,1009,1,202.0,5022.76,Debit,Inventory restock
+GL0144,2023-08-19,1010,2,203.0,3078.7,Debit,Customer payment
+GL0145,2023-05-28,1005,3,204.0,2919.92,Debit,Service revenue
+GL0146,2023-04-30,1005,3,202.0,465.18,Credit,Office supplies purchase
+GL0147,2023-10-06,1004,3,202.0,6134.69,Credit,Customer payment
+GL0148,2023-02-06,1001,1,203.0,5076.52,Credit,Inventory restock
+GL0149,2023-03-05,1008,3,203.0,609.64,Credit,Equipment maintenance
+GL0150,2023-09-14,1009,2,204.0,2858.6,Debit,Software license
+GL0151,2023-01-21,1007,3,203.0,9091.83,Credit,Office supplies purchase
+GL0152,2023-02-16,1004,3,201.0,2471.66,Credit,Software license
+GL0153,2023-01-21,1003,2,204.0,1534.46,Credit,Customer payment
+GL0154,2023-10-27,1007,3,204.0,4945.58,Debit,Inventory restock
+GL0155,2023-06-28,1007,2,203.0,9857.94,Debit,Customer payment
+GL0156,2023-06-18,1007,3,204.0,2496.35,Credit,Service revenue
+GL0157,2023-07-25,1009,1,204.0,6754.14,Debit,Equipment maintenance
+GL0158,2023-05-10,1006,1,204.0,7640.03,Debit,Service revenue
+GL0159,2023-10-05,1008,2,201.0,2452.61,Debit,Software license
+GL0160,2023-07-05,1010,2,204.0,7309.34,Debit,Customer payment
+GL0161,2023-05-17,1009,1,203.0,3741.05,Credit,Service revenue
+GL0162,2023-09-06,1002,1,202.0,6359.83,Debit,Equipment maintenance
+GL0163,2023-10-10,1001,3,204.0,6371.94,Debit,Customer payment
+GL0164,2023-02-28,1008,1,202.0,5404.17,Credit,Service revenue
+GL0165,2023-05-30,1009,3,203.0,993.87,Credit,Inventory restock
+GL0166,2023-08-30,1004,2,202.0,8369.49,Credit,Customer payment
+GL0167,2023-11-03,1009,3,202.0,3275.72,Debit,Equipment maintenance
+GL0168,2023-08-01,1006,3,203.0,1946.53,Debit,Equipment maintenance
+GL0169,2023-06-02,1010,3,204.0,503.67,Debit,Inventory restock
+GL0170,2023-10-03,1008,2,203.0,5949.84,Credit,Inventory restock
+GL0171,2023-06-14,1004,3,202.0,6807.89,Credit,Customer payment
+GL0172,2023-07-30,1001,2,204.0,264.22,Credit,Inventory restock
+GL0173,2023-12-06,1003,2,201.0,5169.72,Debit,Software license
+GL0174,2023-10-30,1006,1,204.0,2342.31,Debit,Software license
+GL0175,2023-08-22,1001,3,202.0,6487.21,Credit,Service revenue
+GL0176,2023-03-21,1002,2,203.0,1826.23,Credit,Software license
+GL0177,2023-12-21,1007,3,201.0,6940.28,Credit,Service revenue
+GL0178,2023-10-01,1007,2,204.0,3928.68,Debit,Software license
+GL0179,2023-02-05,1004,3,203.0,9373.63,Debit,Service revenue
+GL0180,2023-02-16,1007,1,201.0,1461.46,Credit,Customer payment
+GL0181,2023-12-22,1005,1,201.0,3476.56,Credit,Office supplies purchase
+GL0182,2023-05-31,1006,2,204.0,1223.39,Debit,Customer payment
+GL0183,2023-09-29,1007,3,202.0,9254.47,Debit,Customer payment
+GL0184,2023-02-10,1010,2,202.0,8785.66,Credit,Software license
+GL0185,2023-03-15,1004,2,,2653.62,Credit,Equipment maintenance
+GL0186,2023-12-08,1001,2,203.0,6633.84,Debit,Office supplies purchase
+GL0187,2023-08-15,1006,3,203.0,8190.5,Credit,Service revenue
+GL0188,2023-05-09,1008,2,202.0,5596.49,Credit,Inventory restock
+GL0189,2023-02-24,1004,2,203.0,5343.54,Credit,Service revenue
+GL0190,2023-06-01,1001,3,204.0,2494.34,Credit,Office supplies purchase
+GL0191,2023-10-17,1001,3,204.0,1021.72,Credit,Customer payment
+GL0192,2023-11-07,1006,1,202.0,8982.44,Credit,Service revenue
+GL0193,2023-12-04,1003,3,201.0,9014.14,Debit,Equipment maintenance
+GL0194,2023-08-14,1001,3,203.0,6367.7,Debit,Office supplies purchase
+GL0195,2023-06-01,1006,3,,3456.39,Debit,Customer payment
+GL0196,2023-03-09,1009,2,203.0,3557.17,Debit,Equipment maintenance
+GL0197,2023-09-04,1005,3,203.0,7286.96,Debit,Inventory restock
+GL0198,2023-02-08,1003,1,204.0,8981.39,Credit,Office supplies purchase
+GL0199,2023-07-22,1001,2,,8882.16,Credit,Equipment maintenance
+GL0200,2023-12-11,1005,3,204.0,7820.77,Credit,Office supplies purchase
+GL0201,2023-12-12,1004,2,201.0,6456.11,Credit,Software license
+GL0202,2023-04-24,1002,3,204.0,932.99,Credit,Service revenue
+GL0203,2023-07-29,1002,1,201.0,1700.12,Debit,Equipment maintenance
+GL0204,2023-09-10,1002,1,202.0,8995.69,Debit,Inventory restock
+GL0205,2023-08-21,1006,3,,6103.65,Debit,Inventory restock
+GL0206,2023-12-02,1002,2,204.0,191.05,Credit,Office supplies purchase
+GL0207,2023-12-20,1006,1,204.0,1104.57,Credit,Customer payment
+GL0208,2023-07-05,1002,3,203.0,6668.67,Credit,Office supplies purchase
+GL0209,2023-07-23,1005,1,201.0,150.11,Credit,Office supplies purchase
+GL0210,2023-12-06,1004,3,201.0,1692.0,Debit,Equipment maintenance
+GL0211,2023-05-05,1003,3,202.0,5532.46,Debit,Software license
+GL0212,2023-04-17,1010,1,202.0,6949.76,Credit,Customer payment
+GL0213,2023-11-02,1001,2,202.0,6554.42,Debit,Software license
+GL0214,2023-05-09,1003,1,201.0,2320.27,Debit,Office supplies purchase
+GL0215,2023-07-03,1004,3,203.0,7150.57,Debit,Customer payment
+GL0216,2023-05-16,1001,1,204.0,2448.77,Debit,Service revenue
+GL0217,2023-02-02,1008,2,203.0,3321.46,Debit,Inventory restock
+GL0218,2023-09-15,1004,3,201.0,7490.26,Credit,Inventory restock
+GL0219,2023-11-26,1001,1,204.0,6531.37,Credit,Inventory restock
+GL0220,2023-12-18,1002,2,204.0,8507.31,Debit,Office supplies purchase
+GL0221,2023-06-14,1010,1,201.0,6610.37,Debit,Equipment maintenance
+GL0222,2023-11-16,1010,3,203.0,5726.26,Credit,Software license
+GL0223,2023-09-29,1005,2,204.0,1027.38,Debit,Service revenue
+GL0224,2023-02-28,1009,3,202.0,3740.39,Credit,Inventory restock
+GL0225,2023-04-27,1007,2,204.0,2725.5,Credit,Inventory restock
+GL0226,2023-02-18,1006,2,203.0,2515.5,Credit,Equipment maintenance
+GL0227,2023-03-20,1008,1,201.0,9732.8,Debit,Office supplies purchase
+GL0228,2023-08-10,1002,3,203.0,3991.67,Debit,Software license
+GL0229,2023-01-31,1010,3,203.0,8931.26,Debit,Inventory restock
+GL0230,2023-07-01,1007,3,201.0,6348.27,Credit,Software license
+GL0231,2023-06-09,1006,1,202.0,7968.63,Debit,Service revenue
+GL0232,2023-09-04,1004,1,203.0,5076.11,Credit,Office supplies purchase
+GL0233,2023-05-23,1010,1,204.0,5811.35,Debit,Software license
+GL0234,2023-12-03,1005,1,202.0,4975.93,Credit,Service revenue
+GL0235,2023-06-08,1006,2,201.0,2032.91,Debit,Customer payment
+GL0236,2023-10-17,1007,1,202.0,7252.28,Debit,Office supplies purchase
+GL0237,2023-09-29,1004,2,204.0,2879.65,Credit,Equipment maintenance
+GL0238,2023-03-22,1006,2,203.0,340.73,Debit,Office supplies purchase
+GL0239,2023-03-21,1003,3,201.0,6490.18,Debit,Equipment maintenance
+GL0240,2023-08-15,1007,2,204.0,1853.4,Credit,Equipment maintenance
+GL0241,2023-04-21,1009,1,203.0,9410.54,Credit,Office supplies purchase
+GL0242,2023-05-26,1010,2,203.0,9543.89,Debit,Customer payment
+GL0243,2023-07-22,1010,1,201.0,9157.16,Debit,Equipment maintenance
+GL0244,2023-04-19,1003,2,203.0,3764.57,Credit,Office supplies purchase
+GL0245,2023-01-04,1008,3,204.0,253.02,Debit,Customer payment
+GL0246,2023-07-14,1009,3,202.0,9290.35,Credit,
+GL0247,2023-07-23,1001,2,201.0,4339.02,Credit,Office supplies purchase
+GL0248,2023-06-10,1010,2,204.0,9669.88,Credit,Equipment maintenance
+GL0249,2023-02-28,1007,1,203.0,9639.84,Debit,Software license
+GL0250,2023-08-24,1006,1,204.0,8544.79,Debit,
+GL0251,2023-08-12,1010,2,201.0,3015.04,Credit,Equipment maintenance
+GL0252,2023-06-23,1004,2,202.0,3912.47,Debit,Software license
+GL0253,2023-11-21,1002,3,202.0,8526.25,Credit,Equipment maintenance
+GL0254,2023-11-27,1003,1,201.0,3237.53,Debit,Equipment maintenance
+GL0255,2023-04-12,1003,3,202.0,1777.98,Debit,Customer payment
+GL0256,2023-11-18,1008,2,204.0,5612.33,Credit,Service revenue
+GL0257,2023-06-11,1003,2,201.0,9367.93,Credit,Inventory restock
+GL0258,2023-11-20,1005,2,201.0,6990.69,Credit,Software license
+GL0259,2023-02-07,1005,2,204.0,5743.61,Debit,Office supplies purchase
+GL0260,2023-07-08,1005,1,201.0,1062.05,Credit,Inventory restock
+GL0261,2023-10-25,1009,3,201.0,6188.57,Credit,Software license
+GL0262,2023-11-30,1004,2,204.0,9901.53,Debit,Office supplies purchase
+GL0263,2023-08-19,1002,2,201.0,1486.83,Debit,Office supplies purchase
+GL0264,2023-05-07,1008,2,202.0,5231.46,Credit,Equipment maintenance
+GL0265,2023-05-25,1007,2,203.0,8785.99,Debit,Service revenue
+GL0266,2023-11-28,1006,1,203.0,7433.61,Debit,Software license
+GL0267,2023-12-14,1007,2,203.0,7000.46,Debit,Equipment maintenance
+GL0268,2023-02-11,1010,3,202.0,7054.59,Credit,Equipment maintenance
+GL0269,2023-12-02,1007,1,201.0,3658.96,Credit,Software license
+GL0270,2023-07-12,1006,1,201.0,3006.56,Credit,Software license
+GL0271,2023-07-05,1001,2,203.0,8112.68,Debit,Customer payment
+GL0272,2023-06-24,1008,1,202.0,8120.12,Debit,Customer payment
+GL0273,2023-02-09,1005,1,201.0,8684.02,Credit,Software license
+GL0274,2023-03-09,1010,2,202.0,9141.08,Debit,Customer payment
+GL0275,2023-12-21,1010,1,204.0,5162.29,Debit,Inventory restock
+GL0276,2023-07-06,1004,2,203.0,5065.01,Credit,Customer payment
+GL0277,2023-10-01,1004,2,204.0,8003.12,Debit,Equipment maintenance
+GL0278,2023-12-14,1010,2,204.0,6534.64,Credit,
+GL0279,2023-09-15,1009,2,202.0,7049.47,Debit,Software license
+GL0280,2023-03-12,1005,1,204.0,7978.35,Credit,Software license
+GL0281,2023-02-22,1009,1,203.0,8911.05,Debit,
+GL0282,2023-05-20,1008,3,202.0,3446.15,Credit,Office supplies purchase
+GL0283,2023-04-24,1008,2,201.0,3818.27,Credit,Office supplies purchase
+GL0284,2023-07-22,1009,2,202.0,1030.42,Credit,Office supplies purchase
+GL0285,2023-07-11,1004,1,203.0,5824.97,Debit,Service revenue
+GL0286,2023-11-29,1006,1,202.0,455.83,Debit,Equipment maintenance
+GL0287,2023-08-30,1003,3,204.0,4709.42,Credit,Software license
+GL0288,2023-01-03,1002,1,203.0,5472.18,Debit,Customer payment
+GL0289,2023-10-08,1010,3,204.0,2936.76,Debit,
+GL0290,2023-05-02,1005,1,,5949.25,Debit,Inventory restock
+GL0291,2023-11-24,1010,2,201.0,401.95,Debit,Inventory restock
+GL0292,2023-11-02,1009,1,202.0,469.75,Debit,Equipment maintenance
+GL0293,2023-08-08,1001,3,203.0,8243.75,Debit,Software license
+GL0294,2023-08-02,1003,3,201.0,3665.89,Credit,Office supplies purchase
+GL0295,2023-09-27,1009,3,201.0,1357.9,Credit,Inventory restock
+GL0296,2023-01-23,1007,2,203.0,5270.21,Debit,Equipment maintenance
+GL0297,2023-02-04,1006,1,201.0,7722.94,Credit,Customer payment
+GL0298,2023-01-23,1006,3,203.0,2236.63,Debit,Service revenue
+GL0299,2023-08-26,1008,3,202.0,6266.62,Debit,Office supplies purchase
+GL0300,2023-08-23,1001,2,202.0,944.94,Debit,Customer payment
+GL0301,2023-01-22,1006,2,204.0,611.65,Credit,Equipment maintenance
+GL0302,2023-01-19,1004,2,203.0,5360.41,Debit,Service revenue
+GL0303,2023-06-19,1005,1,203.0,5452.29,Credit,Inventory restock
+GL0304,2023-08-14,1007,2,202.0,6410.56,Credit,Service revenue
+GL0305,2023-09-12,1006,3,203.0,7288.3,Debit,Service revenue
+GL0306,2023-08-06,1002,2,202.0,9760.94,Credit,Equipment maintenance
+GL0307,2023-02-22,1002,2,203.0,5211.37,Credit,Inventory restock
+GL0308,2023-11-05,1007,1,204.0,3297.27,Credit,Inventory restock
+GL0309,2023-01-22,1006,3,204.0,7972.34,Credit,Service revenue
+GL0310,2023-01-30,1002,3,204.0,2781.24,Credit,Software license
+GL0311,2023-12-14,1003,1,202.0,4445.82,Credit,Office supplies purchase
+GL0312,2023-03-06,1002,1,203.0,876.72,Credit,Inventory restock
+GL0313,2023-10-18,1001,3,202.0,350.97,Credit,Equipment maintenance
+GL0314,2023-07-10,1008,1,202.0,9630.22,Credit,Inventory restock
+GL0315,2023-06-10,1005,1,201.0,8376.2,Debit,Service revenue
+GL0316,2023-04-06,1008,3,204.0,6990.14,Debit,Equipment maintenance
+GL0317,2023-05-14,1008,1,203.0,4148.63,Credit,Customer payment
+GL0318,2023-03-04,1003,1,204.0,1815.61,Debit,Service revenue
+GL0319,2023-08-16,1002,3,203.0,1648.73,Credit,Service revenue
+GL0320,2023-02-03,1009,3,203.0,2577.4,Credit,Customer payment
+GL0321,2023-12-31,1003,2,202.0,5537.34,Debit,Customer payment
+GL0322,2023-03-13,1004,2,201.0,7174.5,Credit,Software license
+GL0323,2023-10-21,1006,2,202.0,6635.95,Debit,Office supplies purchase
+GL0324,2023-06-08,1007,3,204.0,2871.35,Credit,Inventory restock
+GL0325,2023-10-22,1002,1,203.0,9553.17,Debit,Inventory restock
+GL0326,2023-08-27,1009,2,202.0,7405.18,Debit,Customer payment
+GL0327,2023-08-10,1009,1,201.0,5588.11,Debit,Equipment maintenance
+GL0328,2023-03-26,1003,2,202.0,6156.04,Credit,Software license
+GL0329,2023-05-26,1002,2,202.0,4254.04,Credit,Customer payment
+GL0330,2023-11-17,1005,3,201.0,2552.54,Debit,Software license
+GL0331,2023-10-25,1003,1,203.0,3624.13,Debit,Office supplies purchase
+GL0332,2023-02-11,1001,3,203.0,7602.68,Debit,Software license
+GL0333,2023-08-02,1010,3,201.0,242.5,Credit,Service revenue
+GL0334,2023-10-07,1005,3,203.0,1249.12,Credit,Customer payment
+GL0335,2023-12-17,1007,2,204.0,555.43,Debit,Service revenue
+GL0336,2023-01-31,1003,2,204.0,503.22,Credit,Inventory restock
+GL0337,2023-04-15,1006,3,202.0,8569.06,Credit,Service revenue
+GL0338,2023-06-13,1006,2,202.0,7066.21,Credit,Software license
+GL0339,2023-10-15,1002,2,,4794.32,Credit,Office supplies purchase
+GL0340,2023-05-17,1008,1,202.0,1068.56,Debit,Office supplies purchase
+GL0341,2023-05-29,1007,3,204.0,4967.0,Debit,Customer payment
+GL0342,2023-06-17,1010,3,203.0,4787.37,Debit,Customer payment
+GL0343,2023-09-13,1009,2,,1814.7,Credit,Inventory restock
+GL0344,2023-01-12,1002,2,204.0,4395.13,Debit,Customer payment
+GL0345,2023-10-26,1006,1,201.0,4045.2,Credit,Inventory restock
+GL0346,2023-11-02,1008,2,201.0,6196.92,Debit,
+GL0347,2023-03-10,1005,3,203.0,6387.43,Credit,Equipment maintenance
+GL0348,2023-01-24,1007,1,202.0,548.51,Credit,
+GL0349,2023-05-28,1002,2,204.0,3808.66,Credit,Software license
+GL0350,2023-12-15,1010,1,202.0,6296.01,Debit,Inventory restock
+GL0351,2023-07-11,1006,3,203.0,5081.05,Debit,Customer payment
+GL0352,2023-11-05,1009,2,201.0,8579.25,Debit,Office supplies purchase
+GL0353,2023-03-12,1006,2,204.0,6621.07,Debit,Software license
+GL0354,2023-09-21,1003,2,203.0,1713.05,Debit,Inventory restock
+GL0355,2023-11-12,1005,3,203.0,798.63,Credit,Service revenue
+GL0356,2023-10-16,1005,2,201.0,6459.95,Credit,Equipment maintenance
+GL0357,2023-12-11,1002,2,203.0,362.46,Debit,Software license
+GL0358,2023-08-31,1005,3,202.0,5899.18,Debit,Software license
+GL0359,2023-09-03,1003,3,204.0,9408.28,Debit,Service revenue
+GL0360,2023-05-05,1001,3,201.0,5797.19,Debit,Office supplies purchase
+GL0361,2023-08-14,1006,2,202.0,3942.88,Credit,Service revenue
+GL0362,2023-04-15,1007,3,204.0,6468.55,Debit,Service revenue
+GL0363,2023-03-12,1009,1,203.0,4636.7,Credit,Software license
+GL0364,2023-07-12,1006,1,204.0,5501.61,Credit,Software license
+GL0365,2023-07-01,1005,3,204.0,9420.5,Debit,Customer payment
+GL0366,2023-05-23,1009,2,202.0,3922.42,Credit,Equipment maintenance
+GL0367,2023-12-27,1004,3,204.0,9615.79,Credit,Inventory restock
+GL0368,2023-06-28,1009,3,203.0,9062.97,Credit,Office supplies purchase
+GL0369,2023-10-21,1009,2,204.0,2038.33,Credit,Customer payment
+GL0370,2023-05-29,1001,2,201.0,786.68,Credit,Inventory restock
+GL0371,2023-12-02,1005,3,204.0,1097.7,Debit,Customer payment
+GL0372,2023-10-03,1005,3,,280.4,Debit,Office supplies purchase
+GL0373,2023-11-12,1010,1,202.0,1034.99,Debit,Service revenue
+GL0374,2023-09-29,1004,3,202.0,6861.77,Debit,Office supplies purchase
+GL0375,2023-07-31,1006,3,204.0,804.77,Debit,Service revenue
+GL0376,2023-03-12,1001,3,202.0,3257.86,Credit,Service revenue
+GL0377,2023-09-01,1008,3,202.0,8464.27,Credit,Equipment maintenance
+GL0378,2023-05-27,1001,1,202.0,330.39,Debit,Customer payment
+GL0379,2023-08-02,1003,1,204.0,8163.24,Credit,Customer payment
+GL0380,2023-05-29,1001,1,203.0,2890.36,Debit,Equipment maintenance
+GL0381,2023-05-26,1008,3,204.0,1269.83,Debit,Software license
+GL0382,2023-08-28,1005,1,201.0,6997.7,Credit,Customer payment
+GL0383,2023-08-23,1005,3,202.0,6326.53,Debit,Service revenue
+GL0384,2023-06-22,1005,3,202.0,8786.97,Debit,Software license
+GL0385,2023-11-24,1007,2,203.0,7377.2,Debit,Inventory restock
+GL0386,2023-12-09,1002,1,202.0,8054.46,Credit,Equipment maintenance
+GL0387,2023-05-08,1001,2,204.0,2892.14,Debit,Inventory restock
+GL0388,2023-05-17,1006,2,201.0,1856.65,Credit,
+GL0389,2023-07-04,1004,1,201.0,7531.09,Credit,Equipment maintenance
+GL0390,2023-03-23,1007,3,203.0,8087.66,Debit,Service revenue
+GL0391,2023-06-01,1006,3,202.0,9906.0,Debit,Customer payment
+GL0392,2023-09-02,1003,2,203.0,4184.92,Credit,Service revenue
+GL0393,2023-10-09,1008,3,202.0,3782.98,Debit,Service revenue
+GL0394,2023-11-02,1002,3,204.0,7786.49,Credit,Office supplies purchase
+GL0395,2023-10-16,1002,1,202.0,3473.96,Debit,Customer payment
+GL0396,2023-06-17,1009,2,201.0,9314.5,Debit,Service revenue
+GL0397,2023-10-26,1008,1,204.0,8598.29,Debit,Inventory restock
+GL0398,2023-03-09,1009,2,204.0,4347.04,Debit,Software license
+GL0399,2023-08-25,1005,3,201.0,7533.62,Credit,Equipment maintenance
+GL0400,2023-01-02,1004,3,201.0,7569.97,Debit,Inventory restock
