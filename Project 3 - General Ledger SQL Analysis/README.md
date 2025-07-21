@@ -1,4 +1,4 @@
-# 🧾 Financial Data Analysis Using MySQL (Workbench 8.0)
+# 💰 Financial Data Analysis Using MySQL (Workbench 8.0)
 
 This project focuses on performing comprehensive data cleaning, validation, and exploratory data analysis (EDA) on financial records using SQL. The goal is to ensure data quality, establish relational integrity, and generate valuable insights such as income statements, balance sheets, and key financial KPIs.
 
