@@ -83,12 +83,11 @@ The database consists of 5 tables:
 
 ## 🔗 Author
 
-**KR C**  
+**Chanush KR**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chanush-kr)  
+🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
 _Aspiring Data Scientist | SQL & Python Enthusiast_
 
 ---
 
-## 📌 License
-
-This project is for educational purposes. You’re free to use and adapt the code.
-
+> If you found this helpful, don’t forget to ⭐️ the repo and connect on LinkedIn!
