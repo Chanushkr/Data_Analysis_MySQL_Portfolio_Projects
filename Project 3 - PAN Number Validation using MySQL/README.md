@@ -34,12 +34,12 @@ The results of the validation queries are saved as images for easy reference:
 1. **Valid & Invalid PAN Numbers.jpeg**  
    - Displays a categorized list of PAN numbers with their status (**Valid** / **Invalid**).  
    - Preview:  
-     ![Valid & Invalid PAN Numbers](Valid%20&%20Invalid%20PAN%20Numbers.jpeg)
+     ![Valid & Invalid PAN Numbers](Valid_&_Invalid_PAN_Numbers.jpeg)
 
 2. **Valid PAN Numbers.jpeg**  
    - Shows only the **Valid PAN numbers** extracted from the dataset.  
    - Preview:  
-     ![Valid PAN Numbers](Valid%20PAN%20Numbers.jpeg)
+     ![Valid PAN Numbers](Valid_PAN_Numbers.jpeg)
 
 
 ## 🛠️ Steps Implemented
