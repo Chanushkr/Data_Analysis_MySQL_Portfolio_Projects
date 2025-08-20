@@ -18,6 +18,30 @@ The project includes:
 
 ---
 
+## 📂 Input & Output Files
+
+### 🔹 Input
+- **Pan Number Validation.sql**  
+  This SQL script contains:
+  - User Defined Function (`validate_pan`)  
+  - Data cleaning logic using CTE and View  
+  - Queries for categorizing PAN numbers as Valid/Invalid  
+  - Summary report query  
+
+### 🔹 Outputs
+The results of the validation queries are saved as images for easy reference:
+
+1. **Valid & Invalid PAN Numbers.jpeg**  
+   - Displays a categorized list of PAN numbers with their status (**Valid** / **Invalid**).  
+   - Preview:  
+     ![Valid & Invalid PAN Numbers](Valid%20&%20Invalid%20PAN%20Numbers.jpeg)
+
+2. **Valid PAN Numbers.jpeg**  
+   - Shows only the **Valid PAN numbers** extracted from the dataset.  
+   - Preview:  
+     ![Valid PAN Numbers](Valid%20PAN%20Numbers.jpeg)
+
+
 ## 🛠️ Steps Implemented
 
 ### 1. User Defined Function – `validate_pan(p_str)`
