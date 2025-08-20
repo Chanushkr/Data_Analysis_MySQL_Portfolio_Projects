@@ -81,6 +81,7 @@ Special thanks to their content for helping me understand and implement this pro
 
 ### Author
 Chanush KR
+
 🔗 [LinkedIn](https://www.linkedin.com/in/chanush-kr)  
 🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
 📌 [LinkedIn Post about this Project]
